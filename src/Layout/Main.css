@@ -1,0 +1,7 @@
+.bg-image{
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.6) url('../images/Rectangle\ 1.png');
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+}
